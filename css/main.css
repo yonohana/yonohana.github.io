@@ -1818,7 +1818,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #96402f;
+  background: #ffaf6f;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2905,7 +2905,7 @@ body {
   background-attachment: fixed;
 }
 body {
-  background: url("https://yonohana-1301750103.cos.ap-guangzhou.myqcloud.com/yuzu/%E9%BB%91%E7%99%BD%E8%83%8C%E6%99%AF.jpg");
+  background: url("https://yonohana-1301750103.cos.ap-guangzhou.myqcloud.com/yuzu/%E8%83%8C%E6%99%AF.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
@@ -2918,12 +2918,4 @@ body {
   background: #fff;
   opacity: 0.9;
   min-height: 500px;
-}
-html {
-  filter: grayscale(100%);
-  -webkit-filter: grayscale(100%);
-  -moz-filter: grayscale(100%);
-  -ms-filter: grayscale(100%);
-  -o-filter: grayscale(100%);
-  -webkit-filter: grayscale(1);
 }
