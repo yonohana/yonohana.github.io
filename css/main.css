@@ -1874,7 +1874,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #16420f;
+  background: #7c8cc2;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2713,22 +2713,17 @@ embed {
   display: inline-block;
 }
 body {
-  background: url("/images/background.jpeg");
-  background-attachment: fixed;
-}
-body {
-  background: url("https://yonohana-1301750103.cos.ap-guangzhou.myqcloud.com/yuzu/%E8%83%8C%E6%99%AF2.png");
+  background: url("https://yonohana-1301750103.cos.ap-guangzhou.myqcloud.com/yuzu/123.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
   background-size: cover;
   width: 100%;
-  opacity: 0.8;
 }
 .main-inner {
   margin-top: 60px;
   padding: 60px 60px 60px 60px;
   background: #fff;
-  opacity: 10;
-  min-height: 500px;
+  opacity: 0.95;
+  min-height: 400px;
 }
